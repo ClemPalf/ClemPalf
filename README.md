@@ -3,7 +3,7 @@
 Data scientist passionate about using AI to tackle engineering challenges.                                                                                                          
 
 - 🔭 I'm currently building software models to improve school's energy consumption and indoor air quality.
-- 🌱 I am also learning how to create smart agent using Deep Reinforcement learning!
+- 🌱 I am learning how to create smart agents using Deep Reinforcement Learning!
 - :mailbox: Connect with me [here](https://www.linkedin.com/in/clement-palfroy/)
 
 ## Main coding tools
