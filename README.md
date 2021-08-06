@@ -8,7 +8,7 @@ Data scientist passionate about using AI to tackle engineering challenges.
 
 ## Main coding tools
 <img align="left" alt="python" src="https://img.shields.io/badge/python-FBE468.svg?&style=for-the-badge&logo=python&logoColor=blue" />
-<img align="left" alt="C++" src="https://img.shields.io/badge/C++-FBE468.svg?&style=for-the-badge&logo=C++&logoColor=pink" />
+<img align="left" alt="C++" src="https://img.shields.io/badge/-C%2B%2B-ff69b4" />
 <img align="left" alt="tensorflow" src="https://img.shields.io/badge/tensorflow-424F66?&style=for-the-badge&logo=tensorflow&logoColor=orange" />
 <img align="left" alt="pytorch" src="https://img.shields.io/badge/pytorch-391C65?&style=for-the-badge&logo=pytorch&logoColor=red" />
 <img align="left" alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F89939?&style=for-the-badge&logo=scikitlearn&logoColor=318CB9" />
