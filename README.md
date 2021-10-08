@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Data scientist passionate about using AI to tackle engineering challenges.                                                                                                          
+Engineer passionate about using AI to tackle ambitious challenges.                                                                                                          
 
 - 🔭 I'm currently building software models to improve school's energy consumption and indoor air quality.
 - 🌱 I am learning how to create smart agents using Deep Reinforcement Learning!
